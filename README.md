@@ -1,8 +1,13 @@
 # Bat-To-Exe-Converter-64-Bit
-Bat To EXE Converter can help you create executable files from batch files, which are composed of a series of DOS instructions. The tool is extremely straightforward and consequently appropriate for any kind of user. However, it is important that you know the syntax of the source code, except probably when you intend to import already existing BAT files.
 
-To start a new session, you should write the desired commands or import the lines from BAT or CMD files. It is great that the program comes with a full-fledged text editor, which lets you find and replace a given string or go straight to a certain line. Fortunately, it supports extended commands. Then, it is possible to convert it to an executable file, with the support of both 32 and 64-bit programs. However, the real power of the tool is related to its additional features. For instance, you can protect the output program with a password and even encrypt it. Other options include creating visible or invisible applications and requesting administrator privileges. Not only that, you can even embed other files within the executable.
+インストーラ版は今後リリース予定
 
-Luckily, the resulting file can be customized in many ways. In this respect, you can use your favorite icon as well as include information about the file, such as product version, company, and internal name. Similarly, you can use a copyright notice.
+Bat To EXE Con​​verterは、一連のDOSコマンドで構成されるバッチファイルから実行可能ファイル（EXEファイル）を作成するのに役立つツールです。操作は非常にシンプルで分かりやすいため、あらゆるユーザーに適しています。ただし、既存のBATファイルを読み込んで変換する場合を除き、ソースコードの構文（書き方）を理解しておく必要があります。
 
-In conclusion, Bat to Exe Converter is probably the best choice for turning BAT files into executables. More advanced users can also benefit from using the program from the command line as well. The product is, luckily, free for commercial and non-commercial use.
+新しい作業を始めるには、必要なコマンド(アプリに記載)を直接記述するか、BATファイルやCMDファイルから内容を読み込みます。このプログラムには本格的なテキストエディタが搭載されており(日本語は文字化けするが実行は問題なし)、文字列の検索・置換や特定の行への移動などが可能です。拡張コマンドにも対応しています。そして、32ビットおよび64ビットの実行可能ファイルへの変換が可能です。しかし、このツールの真価は、その豊富な付加機能にあります。例えば、出力するプログラムにパスワードを設定して保護したり、暗号化したりすることができます。他にも、アプリケーションを可視・不可視の状態で作成したり、管理者権限を要求するように設定したりといったオプションがあります。さらに、実行可能ファイルの中に他のファイルを埋め込むことさえ可能です。
+
+作成されるファイルは、さまざまな方法でカスタマイズできます。好みのアイコンを使用できるほか、製品バージョン、会社名、内部名などのファイル情報を付加することも可能です。同様に、著作権表示を含めることもできます。
+
+結論として、Bat To EXE Con​​verterは、BATファイルを実行可能ファイルに変換するのに最適なツールと言えるでしょう。上級者であれば、コマンドラインからこのプログラムを利用することも可能です。なお、本製品は商用・非商用を問わず無料で利用できます。
+
+(元のファイルをgoogleで日本語訳+α)
