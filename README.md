@@ -1,6 +1,6 @@
 # Bat-To-Exe-Converter-64-Bit
 
-インストーラ版は今後リリース予定
+Windows用インストーラ版は[Releases](https://github.com/yutajapan2026/Bat-To-Exe-Converter-64-Bit/releases)
 
 Bat To EXE Con​​verterは、一連のDOSコマンドで構成されるバッチファイルから実行可能ファイル（EXEファイル）を作成するのに役立つツールです。操作は非常にシンプルで分かりやすいため、あらゆるユーザーに適しています。ただし、既存のBATファイルを読み込んで変換する場合を除き、ソースコードの構文（書き方）を理解しておく必要があります。
 
